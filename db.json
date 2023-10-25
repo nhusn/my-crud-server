@@ -1,0 +1,25 @@
+{
+  "user": [
+    {
+      "name": "NAFIL HUSN M",
+      "email": "mnhnafilhusn09@gmail.com",
+      "course": "Mean Stack",
+      "tutor": "Soniya",
+      "id": 3
+    },
+    {
+      "name": "Rashad",
+      "email": "mohdrashad@gmail.com",
+      "course": "python",
+      "tutor": "akash",
+      "id": 5
+    },
+    {
+      "name": "Sufiyan",
+      "email": "sufiyanarg@gmail.com",
+      "course": "big data",
+      "tutor": "sunil",
+      "id": 9
+    }
+  ]
+}
